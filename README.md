@@ -1,4 +1,4 @@
-<!-- # 🤖 Slack Ofis Botu
+<!-- <!-- # 🤖 Slack Ofis Botu
 
 Bu proje, Slack çalışma alanını yönetmek için geliştirilmiş Python tabanlı bir bottur. Kanal yönetimi, üye davet etme/çıkarma ve gelişmiş mesajlaşma özelliklerine sahiptir.
 
@@ -47,4 +47,4 @@ Bot aşağıdaki komutlara yanıt verir:
 | **Thread Test Etme** | `thread` (Mesaja yanıt yazar) |
 
 ---
-*Geliştirici: Sude Turan* 
+*Geliştirici: Sude Turan*  -->
