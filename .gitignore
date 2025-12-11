@@ -1,0 +1,14 @@
+# Şifre dosyaları (KESİNLİKLE GİT'E GİTMEMELİ)
+.env
+
+# Python derleme dosyaları (Gereksiz kalabalık)
+__pycache__/
+*.py[cod]
+
+# VS Code ayar klasörü (Kişisel ayarlar)
+.vscode/
+
+# Sanal ortam klasörleri (Varsa)
+venv/
+env/
+.venv/
