@@ -47,5 +47,5 @@ Bot aşağıdaki komutlara yanıt verir:
 | **Thread Test Etme** | `thread` (Mesaja yanıt yazar) |
 
 ---
-*Geliştirici: Sude Turan ve Büşra Yavuz.*  -->
+*Geliştirici: Sude Turan.*  -->
 
