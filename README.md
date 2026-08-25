@@ -1,8 +1,8 @@
-# 🤖 Slack Ofis Botu
+# Slack Ofis Botu
 
 Bu proje, Slack çalışma alanını yönetmek için geliştirilmiş Python tabanlı bir bottur. Kanal yönetimi, üye davet etme/çıkarma ve gelişmiş mesajlaşma özelliklerine sahiptir.
 
-## 🚀 Özellikler
+## Özellikler
 
 * **Kanal Yönetimi:** Kanal oluşturma ve arşivleme (silme).
 * **Kişi Yönetimi:** E-posta ile ID bulma, ID ile E-posta bulma.
@@ -12,7 +12,7 @@ Bu proje, Slack çalışma alanını yönetmek için geliştirilmiş Python taba
     * E-posta listesi kullanarak toplu davet.
 * **Mesajlaşma:** Kanala, kişiye (DM) veya bir mesaja yanıt (Thread) olarak mesaj atma.
 
-## 🛠 Kurulum
+## Kurulum
 
 1.  Gerekli kütüphaneleri yükleyin:
     ```bash
@@ -30,7 +30,7 @@ Bu proje, Slack çalışma alanını yönetmek için geliştirilmiş Python taba
     python -m slack_bot.client
     ```
 
-## 💬 Komut Listesi
+## Komut Listesi
 
 Bot aşağıdaki komutlara yanıt verir:
 
